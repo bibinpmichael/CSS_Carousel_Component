@@ -6,6 +6,10 @@ Interactive testimonial carousel with sleek design, built using HTML and CSS.
 
 This project implements a stylish carousel component using HTML and CSS. The carousel is designed to showcase testimonials with a clean and modern design.
 
+## Live Preview
+
+You can visit the site at https://css-carousel-component.netlify.app/
+
 ## Features
 
 - Responsive design
